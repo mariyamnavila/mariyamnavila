@@ -23,3 +23,24 @@ curiosity, and creativity. Thanks for stopping by 🌱
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mariyamnavila&theme=blue-navy" alt="GitHub Streak" /></a>
 </div>
 
+## Tech Stack
+<div align="center">
+
+  <img title="React" height="48" width="48"
+    src="https://cdn.simpleicons.org/html5" />
+  <img title="React" height="48" width="48"
+    src="https://cdn.simpleicons.org/css" />
+  <img title="React" height="48" width="48"
+    src="https://cdn.simpleicons.org/javascript" />
+  <img title="React" height="48" width="48"
+    src="https://cdn.simpleicons.org/react" />
+  <img title="React" height="48" width="48"
+    src="https://cdn.simpleicons.org/mongodb" />
+  <img title="React" height="48" width="48"
+    src="https://cdn.simpleicons.org/nextdotjs" />
+  <img title="React" height="48" width="48"
+    src="https://cdn.simpleicons.org/firebase" />
+
+</div>
+
+
