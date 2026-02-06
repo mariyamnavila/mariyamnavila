@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width='230px' src='/assets/coding.gif'/>
+
 <h2 >𝖧𝖾𝗅𝗅𝗈, 𝖨 𝖺𝗆 𝖬𝖺𝗋𝗂𝗒𝖺𝗆 👋</h2>
 
 <p>
