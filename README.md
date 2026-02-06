@@ -1,8 +1,8 @@
 <div align="center">
 
-<h2 style="color:#6CB4EE;">Hello, I’m Mariyam 👋</h2>
+<h2 >𝖧𝖾𝗅𝗅𝗈, 𝖨 𝖺𝗆 𝖬𝖺𝗋𝗂𝗒𝖺𝗆 👋</h2>
 
-<p style="color:#7EC8E3; font-size:16px; line-height:1.6;">
+<p>
 I love building simple, meaningful things for the web.  
 This space is a small reflection of my learning journey,  
 curiosity, and creativity. Thanks for stopping by 🌱
@@ -10,19 +10,16 @@ curiosity, and creativity. Thanks for stopping by 🌱
 
 </div>
 
+## About Me
 
+- 🔭 I’m currently working on various **frontend projects** and improving my real-world skills
+- 🌱 I’m currently learning  **React, modern JavaScript, and better UI design** 
+- 💬 Ask me about **HTML, CSS, JavaScript, and beginner-friendly frontend ideas**
+- 😄 Pronouns: **She / Her**  
+- ⚡ Fun fact: **I enjoy turning small ideas into calm, usable web experiences**
 
-<!--
-**mariyamnavila/mariyamnavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Daily Streak
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mariyamnavila&theme=blue-navy" alt="GitHub Streak" /></a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
