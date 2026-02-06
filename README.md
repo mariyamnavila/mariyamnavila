@@ -1,4 +1,6 @@
-## Hi there 👋
+<p style={{size:20px,align-items:center}}>Hello👋, I am Mariyam</p> 
+
+
 
 <!--
 **mariyamnavila/mariyamnavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
