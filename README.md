@@ -30,6 +30,7 @@ curiosity, and creativity. Thanks for stopping by 🌱
 ## Tech Stack
 <div align="center">
 
+<p>
   <img title="React" height="48" width="48"
     src="https://cdn.simpleicons.org/html5" />
   <img title="React" height="48" width="48"
@@ -39,11 +40,18 @@ curiosity, and creativity. Thanks for stopping by 🌱
   <img title="React" height="48" width="48"
     src="https://cdn.simpleicons.org/react" />
   <img title="React" height="48" width="48"
-    src="https://cdn.simpleicons.org/mongodb" />
-  <img title="React" height="48" width="48"
-    src="https://cdn.simpleicons.org/nextdotjs" />
+    src="https://cdn.simpleicons.org/tailwindcss" />
   <img title="React" height="48" width="48"
     src="https://cdn.simpleicons.org/firebase" />
+</p>
+  <img title="React" height="48" width="48"
+    src="https://cdn.simpleicons.org/mongodb" />
+  <img title="React" height="48" width="48"
+    src="https://cdn.simpleicons.org/express" />
+  <img title="React" height="48" width="48"
+    src="https://cdn.simpleicons.org/nodedotjs" />
+  <img title="React" height="48" width="48"
+    src="https://cdn.simpleicons.org/nextdotjs" />
 
 </div>
 
