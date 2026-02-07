@@ -22,7 +22,9 @@ curiosity, and creativity. Thanks for stopping by 🌱
 
 ## Daily Streak
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mariyamnavila&theme=blue-navy" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mariyamnavila&theme=blue-navy&cache_seconds=86400)](https://git.io/streak-stats)
+
 </div>
 
 ## Tech Stack
