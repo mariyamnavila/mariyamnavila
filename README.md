@@ -33,24 +33,24 @@ curiosity, and creativity. Thanks for stopping by 🌱
 <p>
   <img title="React" height="48" width="48"
     src="https://cdn.simpleicons.org/html5" />
-  <img title="React" height="48" width="48"
+  <img title="Css" height="48" width="48"
     src="https://cdn.simpleicons.org/css" />
-  <img title="React" height="48" width="48"
+  <img title="Javascript" height="48" width="48"
     src="https://cdn.simpleicons.org/javascript" />
   <img title="React" height="48" width="48"
     src="https://cdn.simpleicons.org/react" />
-  <img title="React" height="48" width="48"
+  <img title="Tailwind" height="48" width="48"
     src="https://cdn.simpleicons.org/tailwindcss" />
-  <img title="React" height="48" width="48"
+  <img title="Firebase" height="48" width="48"
     src="https://cdn.simpleicons.org/firebase" />
 </p>
-  <img title="React" height="48" width="48"
+  <img title="MongoDB" height="48" width="48"
     src="https://cdn.simpleicons.org/mongodb" />
-  <img title="React" height="48" width="48"
+  <img title="Express" height="48" width="48"
     src="https://cdn.simpleicons.org/express" />
-  <img title="React" height="48" width="48"
+  <img title="Node.js" height="48" width="48"
     src="https://cdn.simpleicons.org/nodedotjs" />
-  <img title="React" height="48" width="48"
+  <img title="Next.js" height="48" width="48"
     src="https://cdn.simpleicons.org/nextdotjs" />
 
 </div>
