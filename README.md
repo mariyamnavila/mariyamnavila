@@ -17,8 +17,8 @@ curiosity, and creativity. Thanks for stopping by 🌱
 - 🔭 I’m currently working on various **frontend projects** and improving my real-world skills
 - 🌱 I’m currently learning  **React, modern JavaScript, and better UI design** 
 - 💬 Ask me about **HTML, CSS, JavaScript, and beginner-friendly frontend ideas**
-- 😄 Pronouns: **She / Her**  
-- ⚡ Fun fact: **I enjoy turning small ideas into calm, usable web experiences**
+- 😄 Pronouns: **She / Her**
+- ⚡ Fun fact: **I enjoy sleeping**
 
 ## Daily Streak
 <div align="center">
