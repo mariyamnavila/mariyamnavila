@@ -1,6 +1,8 @@
+![Banner Image Of Bibi Mariyam](asset/Banner.png)
+
 <div align="center">
   
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500"> -->
 
 <h2 >𝖧𝖾𝗅𝗅𝗈, 𝖨 𝖺𝗆 𝖬𝖺𝗋𝗂𝗒𝖺𝗆 👋</h2>
 
