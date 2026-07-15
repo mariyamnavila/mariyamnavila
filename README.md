@@ -3,13 +3,12 @@
 
 <img src="assets/Banner.png" alt="Github Banner of Bibi Mariyam">
 
-<p style="font-size: 1.5em; font-weight: bold; margin: 0;">
+<h2>
 Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Bibi Mariyam
 <br>
  A Full Stack Developer
-</p>
+</h2>
 
----
  
 <p>
 I love building simple, meaningful things for the web. 
@@ -34,30 +33,27 @@ This space is a small reflection of my learning journey, curiosity, and creativi
 
 ### Frontend
 
-<img title="HTML5" height="48" width="48" src="https://cdn.simpleicons.org/html5" />
-<img title="CSS3" height="48" width="48" src="https://cdn.simpleicons.org/css" />
-<img title="JavaScript" height="48" width="48" src="https://cdn.simpleicons.org/javascript" />
-<img title="TypeScript" height="48" width="48" src="https://cdn.simpleicons.org/typescript" />
-<img title="React" height="48" width="48" src="https://cdn.simpleicons.org/react" />
-<img title="Next.js" height="48" width="48" src="https://cdn.simpleicons.org/nextdotjs" />
-<img title="Tailwind CSS" height="48" width="48" src="https://cdn.simpleicons.org/tailwindcss" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Frontend Tech Stack" />
+</a>
 
-### Backend & Database
+### Backend
 
-<img title="Node.js" height="48" width="48" src="https://cdn.simpleicons.org/nodedotjs" />
-<img title="Express" height="48" width="48" src="https://cdn.simpleicons.org/express" />
-<img title="PostgreSQL" height="48" width="48" src="https://cdn.simpleicons.org/postgresql" />
-<img title="MongoDB" height="48" width="48" src="https://cdn.simpleicons.org/mongodb" />
-<img title="Prisma" height="48" width="48" src="https://cdn.simpleicons.org/prisma" />
-<img title="Firebase" height="48" width="48" src="https://cdn.simpleicons.org/firebase" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres,mongodb,prisma" alt="Backend Tech Stack" />
+</a>
 
-### Tools & Deployment
+### Deployment
 
-<img title="Git" height="48" width="48" src="https://cdn.simpleicons.org/git" />
-<img title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github" />
-<img title="Figma" height="48" width="48" src="https://cdn.simpleicons.org/figma" />
-<img title="Vercel" height="48" width="48" src="https://cdn.simpleicons.org/vercel" />
-<img title="Netlify" height="48" width="48" src="https://cdn.simpleicons.org/netlify" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="Deployment Tech Stack" />
+</a>
+
+### Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,figma" alt="Tools Tech Stack" />
+</a>
 
 </div>
 
@@ -72,11 +68,12 @@ This space is a small reflection of my learning journey, curiosity, and creativi
 </div>
 
 
-## GitHub Stats
+## Repository Stats & Streak
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mariyamnavila&theme=blue-navy&cache_seconds=86400)](https://git.io/streak-stats)
+
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariyamnavila&show_icons=true&theme=blue-navy&hide_border=true) -->
 
